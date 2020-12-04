@@ -1,0 +1,34 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "id_product": 123,
+            "product_name": "Ноутбук",
+            "price": 45600,
+            "quantity": 5,
+            "img": "./assets/img/notebook.jpg"
+        },
+        {
+            "id_product": 456,
+            "product_name": "Мышка",
+            "price": 1000,
+            "quantity": 2,
+            "img": "./assets/img/mouse.jpg"
+        },
+        {
+            "quantity": 2,
+            "id_product": 457,
+            "product_name": "Монитор",
+            "price": 16000,
+            "img": "./assets/img/monitor.jpg"
+        },
+        {
+            "quantity": 4,
+            "id_product": 124,
+            "product_name": "Телевизор",
+            "price": 76000,
+            "img": "./assets/img/img-tv.jpg"
+        }
+    ]
+}
